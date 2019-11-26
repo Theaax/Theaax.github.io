@@ -1,0 +1,20 @@
+.entete{
+    display:flex;
+    border-bottom:2px white solid;
+    background-color:skyblue;
+    align-items: center;
+
+}
+
+.corps{
+    display:flex;
+    background-color:skyblue;
+}
+
+.enfant{
+    margin: 5px;
+}
+
+body{
+    margin:0;
+}
